@@ -66,7 +66,7 @@ int main() {
 
     for (int i = 0; i < nElem; i++)
     {
-        tablica1[i] = rand() % 73 - 23;
+        tablica1[i] = rand() % 74 - 23;
         if (tablica1[i] < min) min = tablica1[i];
     }
 
